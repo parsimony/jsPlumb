@@ -50,4 +50,5 @@ possible future enhancements
 
     - jsPlumb should handle scope, dragActive etc. then can support multiple scopes.
 
+
     - paint style "profiles": labelled paint styles, with inheritance. so hover, as an example, could extend from some normal state, and just override a couple of values.  or you might have different "types" of connections, the paint styles for which could extend some default.
